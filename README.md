@@ -11,10 +11,11 @@ I'm associate software engineer at Kaz Software, specializing in Mobile applicat
   
 ## Tools & Technologies
 
-- IOS: Swift, SwiftUI
-- WatchOs: HealthKit, WatchConnectivity
-- Android: Java
-- Cross-platform: Flutter
+- ![IOS](https://img.shields.io/badge/-211e1b?style=flat-square&logoColor=FFFFFF&labelColor=00FFFFFF&logo=apple)IOS: Swift, SwiftUI
+- ![Watch](https://img.shields.io/badge/-211e1b?style=flat-square&logoColor=FFFFFF&labelColor=00FFFFFF&logo=apple)WatchOs: HealthKit, WatchConnectivity
+- ![Android](https://img.shields.io/badge/-211e1b?style=flat-square&logoColor=008000&labelColor=00FFFFFF&logo=Android)Android: Java
+- ![Cross-platform](https://img.shields.io/badge/-211e1b?style=flat-square&logoColor=ADD8E6&labelColor=00FFFFFF&logo=flutter)Cross-platform: Flutter,Dart
+
 
 <!-- ## Coding Activity (Last 7 days on VS Code)
 
