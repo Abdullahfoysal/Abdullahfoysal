@@ -7,7 +7,7 @@ I'm associate software engineer at Kaz Software, specializing in Mobile applicat
 
 - Apple WatchOs Health App
 - SOLID principals practicing 🦀
-- Increase Code Reusesiblity and Testability
+- Increase Code Reusability and Testability
   
 ## Tools & Technologies
 
