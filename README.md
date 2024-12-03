@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Abdullah Al Foysal
 
 [![LinkedIn Connect](https://img.shields.io/badge/-211e1b?style=flat-square&logoColor=0e76a8&labelColor=211e1b&logo=linkedin)](https://www.linkedin.com/in/abdullahfoysal/)[![Email Address](https://img.shields.io/badge/-211e1b?style=flat-square&logoColor=D44638&labelColor=211e1b&logo=gmail)](mailto:abdullahfoysal32@gmail.com) <br/>
-I'm associate software engineer at Kaz Software, specializing in Mobile application development using Android-Native, IOS-Native(Swift), and Flutter. With professional experience in two companies and freelance work, I'm passionate about exploring new technologies and solving complex problems. Other than Mobile development I've worked on pet projects in areas like  self-driving car(IOT machine learning), game development, MathOlympiad App, Covid Sahajjo App. I also have a good grasp of data structures and algorithms, solving programming.
+I'm software engineer at Kaz Software, specializing in Mobile application development using Android-Native, IOS-Native(Swift), and Flutter. With professional experience in two companies and freelance work, I'm passionate about exploring new technologies and solving complex problems. Other than Mobile development I've worked on pet projects in areas like  self-driving car(IOT machine learning), game development, MathOlympiad App, Covid Sahajjo App. I also have a good grasp of data structures and algorithms, solving programming.
 
 ## Currently Learning and Interested On
 
